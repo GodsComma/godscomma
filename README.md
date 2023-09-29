@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hi, I'm GodsComma (aka Sulav Acharya)
 
-<!--
-**GodsComma/godscomma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in distributed computing. My journey on GitHub is all about collaborating, creating, and learning about new technology that excites me.
 
-Here are some ideas to get you started:
+## 💼 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently, I'm working as a Software Engineer at Obscurity Labs.
+- 🚀 I love to explore and experiment with technologies like CRDTs, MapReduce, Paxos, Raft etc.
+- Lately I have been looking into Application of Game Theory into generating consensus.
+
+
+## 📚 Continuous Learning
+
+I believe in the power of continuous learning. Whether it's diving into Game Theory or exploring new coding challenges, I'm always up for the next adventure.
+
+## 📫 Let's Connect
+
+If you share my interests or have an exciting project in mind, feel free to connect with me. I'm always open to networking and collaborating. You can reach me at [asulav@gmail.com](mailto:asulav@gmail.com) or connect with me here on GitHub.
+
+Let's code, learn, and innovate together! 🚀

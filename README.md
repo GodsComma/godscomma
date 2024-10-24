@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 💼 What I Do
 
-- 💻 Currently, I'm working as a Software Engineer at Obscurity Labs.
+- 💻 Currently, I'm working as a Software Engineer at CACI.
 - 🚀 I love to explore and experiment with technologies like CRDTs, MapReduce, Paxos, Raft etc.
 
 

@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 - 💻 Currently, I'm working as a Software Engineer at Obscurity Labs.
 - 🚀 I love to explore and experiment with technologies like CRDTs, MapReduce, Paxos, Raft etc.
-- Lately I have been looking into Application of Game Theory into generating consensus.
 
 
 ## 📚 Continuous Learning

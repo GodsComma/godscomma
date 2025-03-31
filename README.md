@@ -4,8 +4,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 💼 What I Do
 
-- 💻 Currently, I'm working as a Software Engineer at CACI.
-- 🚀 I love to explore and experiment with technologies like CRDTs, MapReduce, Paxos, Raft etc.
+- 💻 Currently, I'm working as a Software Engineer at MRG.
+- 🚀 I love to explore and experiment with lower-level technologies.
+- 🖥️ Current focus is lower level storage protocols used for HPCs
 
 
 ## 📚 Continuous Learning
